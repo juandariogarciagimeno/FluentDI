@@ -2,7 +2,6 @@
 using FluentDI.Interfaces;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using System.Collections.Generic;
 using System.Reflection;
 
 namespace FluentDI
